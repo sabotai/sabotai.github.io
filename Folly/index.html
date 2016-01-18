@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | Sussafuss</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+  <div class="container">
+    <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()"></canvas>
+    <script type='text/javascript'>
+  var Module = {
+    TOTAL_MEMORY: 268435456,
+    errorhandler: null,			// arguments: err, url, line. This function must return 'true' if the error is handled, otherwise 'false'
+    compatibilitycheck: null,
+    dataUrl: "Release/Build2.data",
+    codeUrl: "Release/Build2.js",
+    memUrl: "Release/Build2.mem",
+  };
+</script>
+<script src="Release/UnityLoader.js"></script>
+</div>
+  </body>
+</html>
