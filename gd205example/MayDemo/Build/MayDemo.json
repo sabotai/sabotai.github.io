@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "MayDemo.data.unityweb",
+"asmCodeUrl": "MayDemo.asm.code.unityweb",
+"asmMemoryUrl": "MayDemo.asm.memory.unityweb",
+"asmFrameworkUrl": "MayDemo.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
