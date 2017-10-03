@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "sacriclic.data.unityweb",
+"asmCodeUrl": "sacriclic.asm.code.unityweb",
+"asmMemoryUrl": "sacriclic.asm.memory.unityweb",
+"asmFrameworkUrl": "sacriclic.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
