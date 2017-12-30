@@ -29,11 +29,11 @@ body{
 	text-align:center;
 	position:relative;
 	text-transform:uppercase;
-	width:100%;
-	margin:0;
+	width:80%;
+	margin:0 auto;
 	font-family: "Lato", serif;
 	padding-top:2em;
-	padding-bottom:2em;
+	padding-bottom:10em;
 }
 
 .description h1{
@@ -42,7 +42,7 @@ body{
 	position:relative;
 	left:0px;
 	right:0px;
-	font-size:4.5em;
+	font-size:5em;
 	color:#EF4136;
 	margin:0 0 .3em 0;
 	word-spacing:0.5em;
@@ -54,7 +54,8 @@ body{
 	background-color:#D7DF23;
 	color:white;
   	border-radius: 5px;
-	padding:3px 8px;
+	padding:0.5em;
+	font-size:1.5em;
 	margin:2em;
 	-webkit-transition: background-color 0.5s ease-out;
  	-moz-transition: background-color 0.5s ease-out;
