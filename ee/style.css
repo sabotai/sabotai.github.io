@@ -7,6 +7,7 @@ body{
 	margin:0;
   	/*transition: all 0.5s ease;*/
 
+	font-family: "Lato", serif;
 
   animation: pulse 3s ;
 }
@@ -34,7 +35,6 @@ body{
 	text-transform:uppercase;
 	width:80%;
 	margin:0 auto;
-	font-family: "Lato", serif;
 	padding-top:2em;
 	padding-bottom:10em;
 }
@@ -90,3 +90,58 @@ body{
 	bottom: 0px;
 	overflow:auto;
 }
+
+@import "compass/css3";
+
+.flex-container {
+  padding: 25px 0 0 0;
+  margin: 0;
+  list-style: none;
+  
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-flow: row wrap;
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around;
+  align-items:center;
+}
+
+.flex-item {
+  background: #f26422;
+  padding: 10px;
+  /*width: 30%;*/
+  /*min-width:300px;*//*
+  max-width:400px;*/
+  	/*flex-grow: 2;*/
+  /*height: 200px;*/
+  margin: 10px;
+  /*flex-shrink: 1 3; */
+  color: white;
+  /*font-weight: bold;*/
+  font-size: 1.5em;
+  text-align: center;
+  flex: 1 100%;
+
+  }
+
+.flex-item.wide{
+  flex: 2 0px; 
+}
+.flex-item.wide b {
+	color: #D7DF23;
+}
+.flex-item.aside { 
+	flex: 1 auto; 
+	max-width:500px;
+	/*max-height:300px;*/
+}
+  .flex-item p {
+  	/*margin:0 auto;*/
+  }
+  .flex-item img {
+  	margin:0 auto;
+  	width:100%;
+  }
