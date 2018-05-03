@@ -1,0 +1,13 @@
+{
+"companyName": "Juno Morrow",
+"productName": "DreamJam",
+"dataUrl": "dj3.data.unityweb",
+"asmCodeUrl": "dj3.asm.code.unityweb",
+"asmMemoryUrl": "dj3.asm.memory.unityweb",
+"asmFrameworkUrl": "dj3.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
