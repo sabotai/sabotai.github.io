@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "PvS",
+"dataUrl": "pvs40.data.unityweb",
+"wasmCodeUrl": "pvs40.wasm.code.unityweb",
+"wasmFrameworkUrl": "pvs40.wasm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
