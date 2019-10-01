@@ -1,0 +1,13 @@
+{
+"companyName": "Juno Morrow",
+"productName": "PvS",
+"dataUrl": "pvs43.data.unityweb",
+"wasmCodeUrl": "pvs43.wasm.code.unityweb",
+"wasmFrameworkUrl": "pvs43.wasm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"}
+}
