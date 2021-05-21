@@ -1,0 +1,13 @@
+{
+"companyName": "Juno Morrow",
+"productName": "Conspiracy Theories About Myself",
+"dataUrl": "CTAM.data.unityweb",
+"asmCodeUrl": "CTAM.asm.code.unityweb",
+"asmMemoryUrl": "CTAM.asm.memory.unityweb",
+"asmFrameworkUrl": "CTAM.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
