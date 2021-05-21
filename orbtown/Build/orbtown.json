@@ -1,0 +1,13 @@
+{
+"companyName": "Juno Morrow",
+"productName": "Conspiracy Theories About Myself",
+"dataUrl": "orbtown.data.unityweb",
+"asmCodeUrl": "orbtown.asm.code.unityweb",
+"asmMemoryUrl": "orbtown.asm.memory.unityweb",
+"asmFrameworkUrl": "orbtown.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
